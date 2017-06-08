@@ -1,0 +1,14 @@
+<templateSet group="sbt">
+  <template name="dep" value="&quot;$GROUP$&quot; % &quot;$ARTIFACT$&quot; % &quot;$VERSION$&quot;" description="Template for dependency" toReformat="false" toShortenFQNames="false">
+    <variable name="ARTIFACT" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <variable name="GROUP" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <variable name="VERSION" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="deps" value="&quot;$GROUP$&quot; %% &quot;$ARTIFACT$&quot; % &quot;$VERSION$&quot;" description="Template for dependency built with SBT" toReformat="false" toShortenFQNames="false">
+    <variable name="ARTIFACT" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <variable name="GROUP" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <variable name="VERSION" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
