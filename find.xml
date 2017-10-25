@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[cis-dal] - ...\dal\src\main\java\com\inditex\ecommerce\integration\dal\dao\order\CISOrderDAOImpl.java'" />
-    <option name="defaultScopeName" value="File '[cis-dal] - ...\dal\src\main\java\com\inditex\ecommerce\integration\dal\dao\order\CISOrderDAOImpl.java'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[cis-dal] - ...\dal\src\main\java\com\inditex\ecommerce\integration\dal\dao\order\CISOrderDAOImpl.java'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
