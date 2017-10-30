@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Current File" />
-    <option name="defaultScopeName" value="Current File" />
+    <option name="customScope" value="File '[cis-core] - ...\core\src\main\java\com\inditex\ecommerce\integration\core\manager\impl\util\command\alerts\AlertMessageProcessorsHealthCoreCmd.java'" />
+    <option name="defaultScopeName" value="File '[cis-core] - ...\core\src\main\java\com\inditex\ecommerce\integration\core\manager\impl\util\command\alerts\AlertMessageProcessorsHealthCoreCmd.java'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Current File" />
+    <option name="SEARCH_SCOPE" value="File '[cis-core] - ...\core\src\main\java\com\inditex\ecommerce\integration\core\manager\impl\util\command\alerts\AlertMessageProcessorsHealthCoreCmd.java'" />
   </component>
 </application>
