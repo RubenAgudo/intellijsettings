@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.inditex.com/Schemas/Ecommerce/NEW_SALE" location="$USER_HOME$/IdeaProjects/CIS/trunk/core/src/test/resources/xsd/in/NEW_SALE.xsd" />
+  </component>
+</application>
