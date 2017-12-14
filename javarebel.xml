@@ -1,0 +1,11 @@
+<application>
+  <component name="JavaRebelPlugin">
+    <option name="ideInstallationStorage">
+      <map>
+        <entry key="com.zeroturnaround.jrebel.FormatVersion" value="7.0.0" />
+        <entry key="com.zeroturnaround.jrebel.intellij.plugin.old-agent-version" value="7.1.3" />
+      </map>
+    </option>
+    <option name="settingsStartupRadioSelection" value="1" />
+  </component>
+</application>
