@@ -54,8 +54,10 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="db2">
-      <artifact name="DB2" use="true" />
+      <artifact name="DB2" use="true" version="4.9.78" />
       <option name="auto-sync" value="false" />
+      <option name="auto-commit" value="true" />
+      <option name="send-app-info" value="true" />
     </driver>
     <driver id="sqlserver.ms">
       <artifact name="SQL Server" use="true" />
