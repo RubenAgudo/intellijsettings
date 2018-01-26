@@ -1,4 +1,7 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="MakeModule">
+    <keyboard-shortcut first-keystroke="shift alt f12" />
+  </action>
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
     <keyboard-shortcut first-keystroke="shift space" />
