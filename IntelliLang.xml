@@ -11,5 +11,9 @@
       <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").withParameters("java.lang.String").definedInClass("javax.persistence.EntityManager"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").withParameters("java.lang.String", "java.lang.Class").definedInClass("javax.persistence.EntityManager"))]]></place>
     </injection>
+    <injection language="DB2" injector-id="java">
+      <display-name>StringBuilder.StringBuilder (java.lang)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("StringBuilder").withParameters("java.lang.String").definedInClass("java.lang.StringBuilder"))]]></place>
+    </injection>
   </component>
 </application>
