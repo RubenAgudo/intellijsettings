@@ -1,5 +1,7 @@
 <application>
   <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.inditex.com/Schemas/Ecommerce/IntegrityControl_common_types.xsd" location="$USER_HOME$/IdeaProjects/CIS/trunk/core/src/test/resources/xsd/out/IntegrityDataInputCommonTypes.xsd" />
+    <resource url="http://www.inditex.com/Schemas/Ecommerce/IntegrityDataInput" location="$USER_HOME$/IdeaProjects/CIS/trunk/core/src/test/resources/xsd/out/IntegrityDataInput.xsd" />
     <resource url="http://www.inditex.com/Schemas/Ecommerce/NEW_SALE" location="$USER_HOME$/IdeaProjects/CIS/trunk/core/src/test/resources/xsd/in/NEW_SALE.xsd" />
     <resource url="http://www.inditex.com/Schemas/Ecommerce/NewOrder" location="$USER_HOME$/IdeaProjects/CIS/trunk/core/src/test/resources/xsd/in/NEW_ORDER_DB.xsd" />
     <resource url="http://www.inditex.com/Schemas/Ecommerce/NewOrder_V85" location="$USER_HOME$/IdeaProjects/CIS/trunk/core/src/test/resources/xsd/in/NEW_ORDER_V85.xsd" />
