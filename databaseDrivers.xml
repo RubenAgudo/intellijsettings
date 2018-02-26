@@ -54,7 +54,7 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="db2">
-      <artifact name="DB2" use="true" version="4.9.78" />
+      <artifact name="DB2" use="true" version="4.23.42" />
       <option name="auto-sync" value="false" />
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
