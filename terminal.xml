@@ -1,5 +1,5 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="set CHERE_INVOKING=1 &amp; &quot;c:\cygwin64\bin\zsh.exe&quot; --login -i" />
+    <option name="myShellPath" value="&quot;c:\cygwin64\bin\sh&quot; -lic &quot;cd ${OLDPWD-.}; zsh&quot;" />
   </component>
 </application>
