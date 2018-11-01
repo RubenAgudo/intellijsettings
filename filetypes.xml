@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="IRunbookPrePostProcessTemplate.ts" type="PLAIN_TEXT" />
       <mapping ext="epoch" type="PLAIN_TEXT" />
+      <mapping pattern="IDataReplicationConfiguration" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
