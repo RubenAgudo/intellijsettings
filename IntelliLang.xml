@@ -11,5 +11,9 @@
       <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").withParameters("java.lang.String").definedInClass("javax.persistence.EntityManager"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").withParameters("java.lang.String", "java.lang.Class").definedInClass("javax.persistence.EntityManager"))]]></place>
     </injection>
+    <injection language="SQL" injector-id="js">
+      <display-name>&quot;SQL select/delete/insert/update/create&quot;</display-name>
+      <place disabled="true"><![CDATA[jsLiteralExpression().andNot(jsArgument("executeSql", 0)).andNot(asAssignedValue("text", "flash.data.SQLStatement")).andNot(asAssignedValue("text", "*", "dbStatement")).andNot(asAssignedValue("text", "*", "statement", "st")).withText(string().matchesBrics("[\"'`] *(((SELECT|DELETE) .*FROM)|((INSERT|REPLACE) .*INTO)|(UPDATE .* SET)|((CREATE|DROP|ALTER) +((TEMPORARY )?TABLE|(UNIQUE )?INDEX))) .*[\"'`]?"))]]></place>
+    </injection>
   </component>
 </application>
