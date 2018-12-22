@@ -1,8 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="IRunbookPrePostProcessTemplate.ts" type="PLAIN_TEXT" />
       <mapping ext="epoch" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping pattern="IDataReplicationConfiguration" type="TypeScript" />
     </extensionMap>
   </component>
