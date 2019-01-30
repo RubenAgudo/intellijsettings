@@ -1,5 +1,5 @@
 <application>
-  <component name="DatabaseSettings" version="3">
+  <component name="DatabaseSettings" version="4">
     <option name="ddl-editor-confirm-loss" value="false" />
     <text-mode>
       <parameter-patterns>
@@ -7,7 +7,7 @@
         <parameter-pattern value="(?&lt;=\W|\A)\$(\d+|[a-zA-Z_](?:\w|\.)*)\$?(?=\W|\z)" scope="*,-SQL" predefined="$a.b.c$?" />
         <parameter-pattern value="(?&lt;=\W|\A)#(\d+|[a-zA-Z_](?:\w|\.)*)#?(?=\W|\z)" scope="*,-SQL" predefined="#a.b.c#?" />
         <parameter-pattern value="%\((\w+)\)s" scope="Python" predefined="%(name)s" />
-        <parameter-pattern value="%\w+" scope="JAVA,Python" predefined="%name" />
+        <parameter-pattern value="%\w+" scope="JAVA,Python,PHP" predefined="%name" />
         <parameter-pattern value="\$\{([^\{\}]*)\}" predefined="${name}" />
         <parameter-pattern value="\$\(([^\)]+)\)" predefined="$(name)" />
       </parameter-patterns>
