@@ -1,6 +1,7 @@
 <code_scheme name="Default" version="173">
   <option name="SOFT_MARGINS" value="120" />
-  <JSCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
+    <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACKETS" value="true" />
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
@@ -8,7 +9,7 @@
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
   </JSCodeStyleSettings>
-  <TypeScriptCodeStyleSettings>
+  <TypeScriptCodeStyleSettings version="0">
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
@@ -34,6 +35,11 @@
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="SPACE_WITHIN_BRACKETS" value="true" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
     <option name="IF_BRACE_FORCE" value="3" />
