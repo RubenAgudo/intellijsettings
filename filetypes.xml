@@ -1,7 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="aws_key_gen" type="PLAIN_TEXT" />
+      <mapping pattern="meka" type="PLAIN_TEXT" />
       <mapping pattern="IRunbookPrePostProcessTemplate.ts" type="PLAIN_TEXT" />
       <mapping ext="epoch" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
