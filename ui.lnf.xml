@@ -1,0 +1,9 @@
+<application>
+  <component name="UISettings">
+    <option name="EDITOR_TAB_PLACEMENT" value="0" />
+    <option name="FONT_FACE" value="Roboto" />
+    <option name="MAX_LOOKUP_WIDTH2" value="971" />
+    <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="SHOW_NAVIGATION_BAR" value="false" />
+  </component>
+</application>
