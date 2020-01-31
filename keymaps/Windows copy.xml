@@ -1,13 +1,9 @@
 <keymap version="1" name="Windows copy" parent="$default">
-  <action id="CloseContent" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
-  </action>
-  <action id="Unsplit">
-    <keyboard-shortcut first-keystroke="ctrl f4" />
   </action>
 </keymap>
