@@ -5,6 +5,7 @@
       <mapping ext="db" type="Native" />
       <mapping pattern="jest" type="PLAIN_TEXT" />
       <mapping pattern=".tslintrc" type="PLAIN_TEXT" />
+      <mapping pattern=".vault-token" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
