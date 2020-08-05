@@ -4,8 +4,8 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="db" type="Native" />
       <mapping pattern="jest" type="PLAIN_TEXT" />
-      <mapping pattern=".vault-token" type="PLAIN_TEXT" />
       <mapping pattern=".tslintrc" type="PLAIN_TEXT" />
+      <mapping pattern=".vault-token" type="PLAIN_TEXT" />
       <mapping ext="presto" type="PLAIN_TEXT" />
       <mapping ext="hq" type="PLAIN_TEXT" />
       <mapping ext="prisma" type="PLAIN_TEXT" />
