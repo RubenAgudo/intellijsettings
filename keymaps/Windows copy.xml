@@ -1,18 +1,5 @@
 <keymap version="1" name="Windows copy" parent="$default">
   <action id="CloseContent" />
-  <action id="EditorScrollDown" />
-  <action id="EditorScrollUp" />
-  <action id="Gradle.ExecuteTask">
-    <keyboard-shortcut first-keystroke="alt g" />
-  </action>
-  <action id="MoveStatementDown">
-    <keyboard-shortcut first-keystroke="ctrl down" />
-    <keyboard-shortcut first-keystroke="shift ctrl down" />
-  </action>
-  <action id="MoveStatementUp">
-    <keyboard-shortcut first-keystroke="shift ctrl up" />
-    <keyboard-shortcut first-keystroke="ctrl up" />
-  </action>
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
