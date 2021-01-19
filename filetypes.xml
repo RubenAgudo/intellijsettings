@@ -1,13 +1,12 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="graphqlconfig" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="db" type="Native" />
       <mapping pattern="jest" type="PLAIN_TEXT" />
-      <mapping pattern=".vault-token" type="PLAIN_TEXT" />
       <mapping pattern=".tslintrc" type="PLAIN_TEXT" />
+      <mapping pattern=".vault-token" type="PLAIN_TEXT" />
       <mapping ext="avsc" type="PLAIN_TEXT" />
       <mapping ext="presto" type="PLAIN_TEXT" />
       <mapping ext="hq" type="PLAIN_TEXT" />
