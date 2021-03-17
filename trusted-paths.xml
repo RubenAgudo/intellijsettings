@@ -3,6 +3,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="$USER_HOME$/Git/Brain" />
+        <option value="$USER_HOME$" />
       </list>
     </option>
   </component>
