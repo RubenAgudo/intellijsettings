@@ -9,6 +9,7 @@
     <entry key="BSP.experimental.feature.enabled" value="false" />
     <entry key="js.debugger.webconsole" value="false" />
     <entry key="scala.erase.compiler.process.jdk.once" value="false" />
+    <entry key="credentialStore.linux.prefer.kwallet" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
