@@ -1,0 +1,6 @@
+<templateSet group="scala">
+  <template name="opt" value="$OPTION$ match {&#10;  case Some($NAME$) =&gt; $END$&#10;  case None =&gt;&#10;}" description="Template for matching Option type" toReformat="false" toShortenFQNames="true">
+    <variable name="OPTION" expression="scalaVariableOfType(&quot;scala.Option&quot;)" defaultValue="option" alwaysStopAt="true" />
+    <variable name="NAME" expression="suggestScalaVariableName(&quot;option&quot;, OPTION)" defaultValue="x" alwaysStopAt="true" />
+  </template>
+</templateSet>

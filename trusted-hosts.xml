@@ -1,0 +1,9 @@
+<application>
+  <component name="Trusted.Hosts.Settings">
+    <option name="TRUSTED_HOSTS">
+      <list>
+        <option value="github.expedia.biz/LodgingPlatform" />
+      </list>
+    </option>
+  </component>
+</application>
