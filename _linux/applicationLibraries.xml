@@ -4,20 +4,17 @@
       <properties>
         <language-level>Scala_2_11</language-level>
         <compiler-classpath>
-          <root url="file://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.8/scala-reflect-2.11.8.jar" />
-          <root url="file://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar" />
-          <root url="file://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.11.8/scala-compiler-2.11.8.jar" />
+          <root url="file://$USER_HOME$/.sdkman/candidates/scala/2.11.8/lib/scala-library.jar" />
+          <root url="file://$USER_HOME$/.sdkman/candidates/scala/2.11.8/lib/scala-compiler.jar" />
+          <root url="file://$USER_HOME$/.sdkman/candidates/scala/2.11.8/lib/scala-reflect.jar" />
         </compiler-classpath>
       </properties>
       <CLASSES>
-        <root url="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.8/scala-reflect-2.11.8.jar!/" />
-        <root url="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar!/" />
-        <root url="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.8/scala-reflect-2.11.8-sources.jar!/" />
-        <root url="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar!/" />
+        <root url="jar://$USER_HOME$/.sdkman/candidates/scala/2.11.8/lib/scala-library.jar!/" />
+        <root url="jar://$USER_HOME$/.sdkman/candidates/scala/2.11.8/lib/scala-reflect.jar!/" />
       </CLASSES>
       <JAVADOC>
-        <root url="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.8/scala-reflect-2.11.8-javadoc.jar!/" />
-        <root url="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-javadoc.jar!/" />
+        <root url="https://www.scala-lang.org/api/2.11.8/" />
       </JAVADOC>
       <SOURCES />
     </library>
