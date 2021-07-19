@@ -1,0 +1,16 @@
+<keymap version="1" name="GNOME copy" parent="Default for GNOME">
+  <action id="CloseActiveTab" />
+  <action id="CloseContent" />
+  <action id="Images.Thumbnails.Hide" />
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="shift ctrl f4" />
+  </action>
+</keymap>

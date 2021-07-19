@@ -1,5 +1,7 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="wsl.exe" />
+    <option name="myShellPath" value="zsh" />
+    <option name="mySoundBell" value="false" />
+    <option name="myTabName" value="Local" />
   </component>
 </application>

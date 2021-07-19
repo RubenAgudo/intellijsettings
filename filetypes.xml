@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="db" type="Native" />
@@ -8,10 +9,12 @@
       <mapping pattern=".vault-token" type="PLAIN_TEXT" />
       <mapping pattern=".tslintrc" type="PLAIN_TEXT" />
       <mapping ext="presto" type="PLAIN_TEXT" />
+      <mapping ext="avsc" type="PLAIN_TEXT" />
       <mapping ext="hq" type="PLAIN_TEXT" />
       <mapping ext="prisma" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
