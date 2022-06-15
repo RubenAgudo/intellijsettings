@@ -2,6 +2,17 @@
   <component name="SettingsSyncPlugins">
     <option name="plugins">
       <map>
+        <entry key="Key Promoter X">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="aws.toolkit">
           <value>
             <PluginData>
@@ -67,6 +78,17 @@
           </value>
         </entry>
         <entry key="com.intellij.plugins.gnomekeymap">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.intellij.plugins.macoskeymap">
           <value>
             <PluginData>
               <option name="dependencies">
@@ -172,6 +194,11 @@
                 </set>
               </option>
             </PluginData>
+          </value>
+        </entry>
+        <entry key="org.jetbrains.kotlin">
+          <value>
+            <PluginData />
           </value>
         </entry>
         <entry key="ru.adelf.idea.dotenv">
