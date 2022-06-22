@@ -7,6 +7,7 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
+  <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="meta f4" />
   </action>
