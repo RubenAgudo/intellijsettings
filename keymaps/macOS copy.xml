@@ -1,0 +1,16 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="Activatesbt-shell-toolwindowToolWindow" />
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
+  <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="meta f4" />
+  </action>
+  <action id="ZeppelinSplitCellAction" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleStrikethroughAction" />
+</keymap>

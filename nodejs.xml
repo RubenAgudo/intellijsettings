@@ -1,8 +1,15 @@
 <application>
   <component name="NodeJsLocalInterpreterManager">
     <local-interpreter path="/usr/bin/node">
-      <version-cache version="17.3.0" last-modified="1639953908000" />
+      <version-cache last-modified="0" />
     </local-interpreter>
-    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v12.21.0/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v12.21.0/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+  </component>
+  <component name="WslNodeInterpreterManager">
+    <wsl-interpreter distribution="Ubuntu" path="/home/ragudo/.nvm/versions/node/v10.17.0/bin/node" />
+    <wsl-interpreter distribution="Ubuntu" path="/home/ragudo/.nvm/versions/node/v12.14.1/bin/node" />
+    <wsl-interpreter distribution="Ubuntu-20.04" path="/home/ragudo/.nvm/versions/node/v12.16.3/bin/node" />
   </component>
 </application>
