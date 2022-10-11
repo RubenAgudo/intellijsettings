@@ -1,5 +1,5 @@
 <application>
-  <component name="ComposeFilesSynchronizedWithServiceView">
-    <option value="file://$USER_HOME$/Projects/Brain/eg-partner-recommendations-configuration-service/docker-compose.yml" />
+  <component name="DockerSettings">
+    <option name="dockerMachinePath" value="" />
   </component>
 </application>
